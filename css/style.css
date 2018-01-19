@@ -1,0 +1,14 @@
+heading {
+  text-align: center;
+  font-size: 2em;
+}
+
+canvas {
+  height: 200px;
+  width: 300px;
+  margin-left: 400px;
+}
+
+input {
+  margin-left: 325px;
+}
